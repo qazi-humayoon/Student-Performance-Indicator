@@ -17,7 +17,7 @@ To get started with the Student Performance Prediction System, follow these step
 
 1.Clone the repository:
 
-'''git clone https://github.com/qazi-humayoon/Student-Price-Indicator.git'
+'''git clone https://github.com/qazi-humayoon/Student-Price-Indicator.git
 
 2.Set up the Python environment with the required dependencies. It is recommended to use a virtual environment:
 
@@ -25,7 +25,7 @@ To get started with the Student Performance Prediction System, follow these step
 python -m venv env
 source env/bin/activate  # For Unix/Linux
 env\Scripts\activate  # For Windows
-pip install -r requirements.txt'
+pip install -r requirements.txt
 3.Explore the code and Jupyter notebooks in the repository to understand the data preprocessing, model training, evaluation, and deployment steps.
 
 4.Run the notebooks sequentially to execute the code and reproduce the results.
