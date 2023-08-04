@@ -38,6 +38,9 @@ pip install -r requirements.txt
 ## Contributing
 Contributions to the Student Performance Prediction System are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
+## Demo
+![Screenshot (2)](https://github.com/qazi-humayoon/Student-Price-Indicator/assets/94228059/8f513268-2860-48e9-aea4-9ae9b7457e9c)
+
 ## Acknowledgements
 * This project utilizes Microsoft Azure for model deployment and CI/CD pipeline automation.
 * The dataset used for student performance prediction is sourced from Kaggle.
