@@ -35,6 +35,8 @@ pip install -r requirements.txt
 
 4.Run the notebooks sequentially to execute the code and reproduce the results.
 
+---
+
 ## Contributing
 Contributions to the Student Performance Prediction System are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
